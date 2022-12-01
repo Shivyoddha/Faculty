@@ -1,24 +1,14 @@
-# README
+# Faculty-Recruitment-Webportal 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## This  project is a part of NITK Winter Of Code
 
-Things you may want to cover:
+## Major Task of the Project:
 
-* Ruby version
+Create a web app for the following:
+1) Register a candidate faculty applying to NITK, Surathkal
+2) Enter all the required details for the faculty position application
+3) Calculate credit points based on data supplied
+4) Option to upload files supporting candidature to be given
+5) Connect to a payment portal (billdesk - through IRIS finance module)
+6) On successful application submission, create a PDF of the application and send an email to the candidate.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
